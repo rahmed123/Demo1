@@ -10,5 +10,11 @@ public class LoginTest {
 	{
 		System.out.println("Hello");
 	}
+	
+	public void Save()
+	{
+		System.out.println("Hello");
+	}
+	
 
 }
